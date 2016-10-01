@@ -5,4 +5,4 @@ Course Computer Vision: Segmentation
 
 Use
 --------
-<p align="center"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/normal.jpg" width width="430"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/result.png" width="430"></p>
+<p align="center"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/normal.jpg" width="430"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/result.png" width="430"></p>
