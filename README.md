@@ -8,5 +8,8 @@ A script counting the number of white blood cells in a given image using a Hough
 
 ## Use
 <p align="center"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/normal.jpg" width="430"></p>
+<p align="center">Input image</p>
 <p align="center"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/canny.png" width="430"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/hough.png" width="430"></p>
+<p align="center">Canny edge detection - Hough transform </p>
 <p align="center"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/info.png" width="430"><img src="https://github.com/matt77hias/Segmentation/blob/master/res/result.png" width="430"></p>
+<p align="center">Feature vectors - Result</p>
