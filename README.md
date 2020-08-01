@@ -13,16 +13,16 @@ A script counting the number of white blood cells in a given image using a Hough
 
 ## Use
 <p align="center">
-<img src="res/normal.jpg" width="429">
+<img src="res/normal.jpg" width="410">
 </p>
 <p align="center">Input image</p>
 <p align="center">
-<img src="res/canny.png" width="429">
-<img src="res/hough.png" width="429">
+<img src="res/canny.png" width="410">
+<img src="res/hough.png" width="410">
 </p>
 <p align="center">Canny edge detection - Hough transform </p>
 <p align="center">
-<img src="res/info.png" width="429">
-<img src="res/result.png" width="429">
+<img src="res/info.png" width="410">
+<img src="res/result.png" width="410">
 </p>
 <p align="center">Feature vectors - Result</p>
